@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cyber.dojo.iml" filepath="$PROJECT_DIR$/.idea/modules/cyber.dojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cyber.dojo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/cyber.dojo_main.iml" group="cyber.dojo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cyber.dojo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/cyber.dojo_test.iml" group="cyber.dojo" />
+    </modules>
+  </component>
+</project>

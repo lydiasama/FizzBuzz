@@ -31,4 +31,8 @@ public class FizzBuzz {
     private String checkDivisibleWith3and5(int result) throws Exception {
         return divisibleWith3and5[result];
     }
+
+    private void printSomething() {
+        System.out.println("print!");
+    }
 }

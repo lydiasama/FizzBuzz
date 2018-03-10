@@ -35,4 +35,9 @@ public class FizzBuzz {
     private void printSomething() {
         System.out.println("print!");
     }
+
+    private void printSomething2() {
+        System.out.println("print!");
+    }
+
 }
